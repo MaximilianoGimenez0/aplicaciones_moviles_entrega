@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Fondo con gradiente cálido melocotón a crema -->
+    <path android:pathData="M0,0h108v108h-108z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:endX="108"
+                android:endY="108"
+                android:startX="0"
+                android:startY="0"
+                android:type="linear">
+                <item
+                    android:color="#FFE5D4"
+                    android:offset="0.0" />
+                <item
+                    android:color="#FFF4E6"
+                    android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Círculos decorativos sutiles - naranja claro -->
+    <path
+        android:fillColor="#33FF8C42"
+        android:pathData="M20,25 C20,30.5 15.5,35 10,35 C4.5,35 0,30.5 0,25 C0,19.5 4.5,15 10,15 C15.5,15 20,19.5 20,25 Z" />
+
+    <path
+        android:fillColor="#33FF8C42"
+        android:pathData="M108,80 C108,88 102,94 94,94 C86,94 80,88 80,80 C80,72 86,66 94,66 C102,66 108,72 108,80 Z" />
+
+    <!-- Círculos decorativos sutiles - melocotón suave -->
+    <path
+        android:fillColor="#22FFCCAA"
+        android:pathData="M95,20 C95,28 89,34 81,34 C73,34 67,28 67,20 C67,12 73,6 81,6 C89,6 95,12 95,20 Z" />
+
+    <path
+        android:fillColor="#22FFCCAA"
+        android:pathData="M30,90 C30,96 25,101 19,101 C13,101 8,96 8,90 C8,84 13,79 19,79 C25,79 30,84 30,90 Z" />
+
+    <!-- Huellas de gatita decorativas -->
+    <!-- Huella 1 - arriba derecha -->
+    <path
+        android:fillColor="#1AFF8C42"
+        android:pathData="M75,45 C75,47 73.5,48.5 71.5,48.5 C69.5,48.5 68,47 68,45 C68,43 69.5,41.5 71.5,41.5 C73.5,41.5 75,43 75,45 Z" />
+    <path
+        android:fillColor="#1AFF8C42"
+        android:pathData="M70,40 C70,41.1 69.1,42 68,42 C66.9,42 66,41.1 66,40 C66,38.9 66.9,38 68,38 C69.1,38 70,38.9 70,40 Z" />
+    <path
+        android:fillColor="#1AFF8C42"
+        android:pathData="M74,40 C74,41.1 73.1,42 72,42 C70.9,42 70,41.1 70,40 C70,38.9 70.9,38 72,38 C73.1,38 74,38.9 74,40 Z" />
+    <path
+        android:fillColor="#1AFF8C42"
+        android:pathData="M68,42 C68,43.1 67.1,44 66,44 C64.9,44 64,43.1 64,42 C64,40.9 64.9,40 66,40 C67.1,40 68,40.9 68,42 Z" />
+    <path
+        android:fillColor="#1AFF8C42"
+        android:pathData="M76,42 C76,43.1 75.1,44 74,44 C72.9,44 72,43.1 72,42 C72,40.9 72.9,40 74,40 C75.1,40 76,40.9 76,42 Z" />
+
+    <!-- Huella 2 - abajo izquierda -->
+    <path
+        android:fillColor="#1AFF8C42"
+        android:pathData="M35,70 C35,72 33.5,73.5 31.5,73.5 C29.5,73.5 28,72 28,70 C28,68 29.5,66.5 31.5,66.5 C33.5,66.5 35,68 35,70 Z" />
+    <path
+        android:fillColor="#1AFF8C42"
+        android:pathData="M30,65 C30,66.1 29.1,67 28,67 C26.9,67 26,66.1 26,65 C26,63.9 26.9,63 28,63 C29.1,63 30,63.9 30,65 Z" />
+    <path
+        android:fillColor="#1AFF8C42"
+        android:pathData="M34,65 C34,66.1 33.1,67 32,67 C30.9,67 30,66.1 30,65 C30,63.9 30.9,63 32,63 C33.1,63 34,63.9 34,65 Z" />
+    <path
+        android:fillColor="#1AFF8C42"
+        android:pathData="M28,67 C28,68.1 27.1,69 26,69 C24.9,69 24,68.1 24,67 C24,65.9 24.9,65 26,65 C27.1,65 28,65.9 28,67 Z" />
+    <path
+        android:fillColor="#1AFF8C42"
+        android:pathData="M36,67 C36,68.1 35.1,69 34,69 C32.9,69 32,68.1 32,67 C32,65.9 32.9,65 34,65 C35.1,65 36,65.9 36,67 Z" />
+
+    <!-- Formas suaves abstractas de fondo -->
+    <path
+        android:fillColor="#11FFAA77"
+        android:pathData="M0,50 Q20,40 40,50 T80,50 Q100,55 108,60 L108,108 L0,108 Z" />
+
+</vector>
